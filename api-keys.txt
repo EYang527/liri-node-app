@@ -1,0 +1,7 @@
+Application Settings
+Keep the "Consumer Secret" a secret. This key should never be human-readable in your application.
+Consumer Key (API Key)	h22VRxyAc28dStPDfabcqFlq8
+Consumer Secret (API Secret)	xmnCVGwIOOFCcT3agBIekGcsxyT2DDvMWLpk1rhKa2U2cEbKjP
+Access Level	Read and write (modify app permissions)
+Owner	Edison7775
+Owner ID	1016697655597125632

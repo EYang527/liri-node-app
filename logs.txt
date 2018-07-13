@@ -1,0 +1,169 @@
+
+2018-07-12T18:44:53-05:00C:\Program Files\nodejs\node.exe,C:\Users\Edison Yang\Documents\codingBootcamp\homeworks\liri-node-app\liri,tell-me-weather
+city : "Paris, France"
+July 12th 2018, 6:48:34 pmC:\Program Files\nodejs\node.exe,C:\Users\Edison Yang\Documents\codingBootcamp\homeworks\liri-node-app\liri,tell-me-weather
+city : "Paris, France"
+July 12th 2018, 6:49:20 pmnode C:\Users\Edison Yang\Documents\codingBootcamp\homeworks\liri-node-app\liri tell-me-weather undefined
+city : "Paris, France"
+July 12th 2018, 6:52:13 pmnode liri tell-me-weather (undefined==null):"Paris":undefined
+city : "Paris, France"
+July 12th 2018, 6:53:44 pmParis
+city : "Paris, France"
+July 12th 2018, 6:55:34 pmParis
+city : "Paris, France"
+July 12th 2018, 6:56:28 pmnode liri tell-me-weather 
+city : "Paris, France"
+July 12th 2018, 6:57:05 pmnode liri tell-me-weather 
+city : "Paris, France"
+July 12th 2018, 6:58:03 pm command+> node liri tell-me-weather  
+city : "Paris, France"
+July 12th 2018, 6:59:24 pm command=> node liri tell-me-weather  
+city : "Paris, France" temp : 68 Desc : "Clear"
+July 12th 2018, 7:01:03 pm command=> node liri tell-me-weather  
+city : "Paris, France" temp : "68" F.  Description : "Clear"
+July 12th 2018, 7:01:55 pm command=> node liri tell-me-weather  
+city : Paris, France temp : 68 F.  Description : Clear
+July 12th 2018, 7:02:36 pm command=> node liri tell-me-weather  
+city : Paris, France temp : 68 F.  Description : Clear
+
+
+July 12th 2018, 7:02:59 pm command=> node liri tell-me-weather  
+city : Paris, France temp : 68 F.  Description : Clear
+
+
+July 12th 2018, 7:06:15 pm command=> [94mnode liri tell-me-weather [39m 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:06:42 pm command=> [94mnode liri tell-me-weather [39m 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:08:33 pm command=> none 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:09:08 pm command=> none 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:09:45 pm command=> none 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:10:10 pm command=> [94mnode liri tell-me-weather Paris[39m 
+city : Paris, France temp : 66 F.  Description : Clear
+
+
+July 12th 2018, 7:10:15 pm command=> [94mnode liri tell-me-weather St Paul,Mn[39m 
+city : St Paul, MN temp : 90 F.  Description : T-Storms
+
+
+July 12th 2018, 7:11:56 pm | command=> [94mnode liri tell-me-weather Beijing[39m 
+city : Beijing, China temp : 77 F.  Description : Sunny
+
+----------------------------------------------------July 12th 2018, 7:13:14 pm | command=> [94mnode liri tell-me-weather Beijing[39m 
+city : Beijing, China temp : 77 F.  Description : Sunny
+
+----------------------------------------------------------------------
+July 12th 2018, 7:13:46 pm | command=> [94mnode liri tell-me-weather Beijing[39m 
+city : Beijing, China temp : 77 F.  Description : Sunny
+
+----------------------------------------------------------------------
+July 12th 2018, 7:14:01 pm | command=> [94mnode liri tell-me-weather moscow[39m 
+city : Moscow, Russia temp : 60 F.  Description : Clear
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:20:13 pm | command=> [94mnode liri movie-this inception[39m Title : Inception Year : 2010 Plot : [object Object]
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:20:59 pm | command=> [94mnode liri movie-this inception[39m 
+Title : Inception Year : 2010 Plot : [object Object]
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:21:24 pm | command=> [94mnode liri movie-this inception[39m 
+Title : Inception Year : 2010 Plot : A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:21:54 pm | command=> [94mnode liri movie-this inception[39m 
+Title : Inception, Year : 2010
+ Plot : A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:22:22 pm | command=> [94mnode liri help [39m Help menu displayed
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:22:26 pm | command=> [94mnode liri helpfrfrfr [39m user bad command
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:26:04 pm | command=> [94mnode liri my-tweets 6[39m 
+Displayed last 6 tweets from Edison7775
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:28:03 pm | command=> [94mnode liri spotify-this You+are+my+fire[39m user bad command
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:28:15 pm | command=> [94mnode liri help [39m Help menu displayed
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:29:27 pm | command=> [94mnode liri spotify-this-song bleeding+love[39m 
+Last spotify searchbleeding+love artist(s) Leona Lewis
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:30:02 pm | command=> [94mnode liri spotify-this-song bleeding+love[39m 
+Last spotify search: bleeding+love artist(s) Leona Lewis
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:31:37 pm | command=> [94mnode liri spotify-this-song bleeding+love[39m 
+Last spotify search: bleeding+love artist(s) Leona Lewis
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:32:44 pm | command=> [94mnode liri spotify-this-song The sign[39m 
+Last spotify search: The sign artist(s) Ty Dolla $ign
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:34:07 pm | command=> [94mnode liri spotify-this-song genie+in+a+bottle[39m 
+Last spotify search: genie+in+a+bottle | artist(s) Christina Aguilera
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:34:54 pm | command=> [94mnode liri spotify-this-song genie in a bottle[39m 
+Last spotify search: genie in a bottle | artist(s) Christina Aguilera
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:35:16 pm | command=> [94mnode liri spotify-this-song The sign[39m 
+Last spotify search: The sign | artist(s) Ty Dolla $ign
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:35:26 pm | command=> [94mnode liri help [39m Help menu displayed
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:00 pm | command=> [94mnode liri movie-this harry potter[39m 
+Title : Harry Potter and the Deathly Hallows: Part 2, Year : 2011
+Plot : Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:09 pm | command=> [94mnode liri movie-this Mr nobody[39m 
+Title : Mr. Nobody, Year : 2009
+Plot : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:13 pm | command=> [94mnode liri movie-thisnnnn [39m user bad command
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:25 pm | command=> [94mnode liri my-tweets 4[39m 
+Displayed last 4 tweets from Edison7775
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:28 pm | command=> [94mnode liri my-tweets [39m 
+Displayed last  tweets from Edison7775
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:33 pm | command=> [94mnode liri help [39m Help menu displayed
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:45 pm | command=> [94mnode liri tell-me-weather Dublin[39m 
+city : Dublin, Ireland temp : 57 F.  Description : Mostly Cloudy
+
+------------------------------------------------------------------------------
+July 12th 2018, 7:36:59 pm | command=> [94mnode liri spotify-this-song "I Want it That Way"[39m 
+Last spotify search: "I Want it That Way" | artist(s) Backstreet Boys
